@@ -1,0 +1,9 @@
+Flask==2.0.2
+requests==2.26.0
+beautifulsoup4==4.10.0
+apscheduler==3.7.0
+aiohttp==3.7.4.post0
+ijson==3.1.4
+Werkzeug==2.0.3
+gunicorn==22.0.0
+boto3
